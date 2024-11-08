@@ -1,4 +1,4 @@
-# Controls and compliance checklist
+# [Controls and compliance checklist](https://docs.google.com/document/d/1e3aoAIrUqyy8h0_NAFL1RF2_2FfnjZzoBn6L4bjkXaE/edit?tab=t.0)
 
 To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc). For more details about each control, including the type and purpose, refer to the [control categories](https://docs.google.com/document/d/1btezuy_bMKWoK8pd97ZuzdWB9y6au_zfkrpkfVf8ktI/template/preview) document.
 
